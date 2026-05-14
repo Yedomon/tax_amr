@@ -1,40 +1,25 @@
 # Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.pytest_cache/
-.mypy_cache/
-.coverage
-htmlcov/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
 
-# Conda / environments
-.conda/
-.env/
-.venv/
+# Environments
+envs/
+.env
+.venv
 venv/
 
-# Build outputs
-build/
-dist/
-*.egg-info/
-
-# Results and large outputs
+# Results (optional - remove if you want to include them)
 results/
-downloads/
-genomes/
-*.fna
-*.faa
-*.gbff
-*.gff
-*.bam
-*.sam
-*.vcf
-*.zip
 
-# Logs
-*.log
+# IDE
+.vscode/
+.idea/
 
-# System files
+# OS
 .DS_Store
 Thumbs.db

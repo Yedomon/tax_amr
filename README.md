@@ -1,4 +1,4 @@
-# taxon_aware_amr
+# tax_amr
 
 **Taxon-aware AMR and virulence detection for heterogeneous surveillance inputs.**
 
@@ -23,7 +23,7 @@ preserving a full audit trail.
 ## What's in the box
 
 ```
-taxon_aware_amr/
+tax_amr/
 ├── pyproject.toml              installable package (`pip install -e .`)
 ├── README.md                   this file
 ├── QUICKSTART.md               copy-paste commands for laptop install + run
@@ -96,7 +96,7 @@ See `QUICKSTART.md` for full commands. TL;DR:
 
 ```bash
 conda env create -f envs/environment.yml
-conda activate taxon_aware_amr
+conda activate tax_amr
 pip install -e .
 
 # Smoke test with bundled mock data

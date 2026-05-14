@@ -1,4 +1,4 @@
-name: taxon_aware_amr
+name: tax_amr
 channels:
   - conda-forge
   - bioconda
