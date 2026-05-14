@@ -55,6 +55,10 @@ tax_amr/
     └── test_pipeline_full.py    master end-to-end (Steps 1-7)
 ```
 
+
+![img](https://github.com/Yedomon/tax_amr/blob/main/img/taxon_aware_amr_pipeline.svg)
+
+
 ## What the pipeline produces
 
 For an input TSV with columns `taxon_id, genome_id, species_name, category`
