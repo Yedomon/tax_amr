@@ -1,0 +1,17 @@
+genome_id	total_gene_count	virulence_genes	virulence_gene_count	amr_genes	amr_gene_count
+GCA_964341285.1	5544	pagA; lef; cya; capB; capC	5	blaA; msrA	2
+GCA_900654255.1	4173	esxA; esxB; eccCb1; mmpL7	4	katG_S315T; inhA; rpoB_S531L; gyrA_D94G; rrs_A1401G	5
+GCA_001049615.1	2872	hlb; clfA; clfB; spa; hla; sak; sea; icaA	8	mecA; mecR1; blaZ; ermC; tet(K); aac(6')-aph(2'')	6
+GCA_000847345.1	7	not_applicable		not_applicable	
+GCA_900327715.1	5	not_applicable		not_applicable	
+GCA_019455585.1	8920	not_applicable		not_applicable	
+GCA_035232765.1	3865	not_applicable		not_applicable	
+GCA_014900015.1	13210	not_applicable		not_applicable	
+GCA_964199775.1	39591	not_applicable		not_applicable	
+GCA_030014295.1	22871	not_applicable		not_applicable	
+GCA_025407655.1	19500	not_applicable		not_applicable	
+none		NA		NA	
+none		NA		NA	
+none		NA		NA	
+GCA_999999999.9		NA		NA	
+GCA_022413745.1	21845	not_applicable		not_applicable	
